@@ -89,22 +89,17 @@
   "resources": [
     {
       "name": "Autistic Self Advocacy Network (ASAN)",
-      "description": "[YOUR TEXT: One sentence in your own words. Run by and for autistic people.]",
+      "description": "A nonprofit run by and for autistic people that works on disability rights and shares guides written from the autistic perspective.",
       "url": "https://autisticadvocacy.org"
     },
     {
       "name": "Autism Society of America",
-      "description": "[YOUR TEXT: One sentence in your own words. A national organization with local chapters and support resources.]",
+      "description": "One of the oldest US autism organizations, with local chapters that offer information, support, and help finding services.",
       "url": "https://autismsociety.org"
     },
     {
-      "name": "CDC: Autism Spectrum Disorder",
-      "description": "[YOUR TEXT: One sentence in your own words. Government health information on signs, screening, and data.]",
-      "url": "https://www.cdc.gov/autism"
-    },
-    {
       "name": "National Institute of Mental Health: Autism Spectrum Disorder",
-      "description": "[YOUR TEXT: One sentence in your own words. Research-based information from the NIH.]",
+      "description": "A US government research institute that explains what autism is, how it is diagnosed, and how it is studied, from a medical point of view.",
       "url": "https://www.nimh.nih.gov/health/topics/autism-spectrum-disorders-asd"
     }
   ]
